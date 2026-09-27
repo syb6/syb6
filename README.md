@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=160&section=header&text=Tuaha's%20Universe&fontSize=50&fontAlignY=38&desc=Full-Stack%20Web%20Developer&descAlignY=62&descAlign=60" alt="Header Image" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=160&section=header&text=M.%20Tuaha%20Siddiqui&fontSize=50&fontAlignY=38&desc=Full-Stack%20Web%20Developer&descAlignY=62&descAlign=60" alt="Header Image" />
 </div>
 
 <div align="center">
@@ -23,7 +23,7 @@
         <li>💻 Specializing in <b>Full-Stack Web Development</b>.</li>
         <li>🌱 Always learning and exploring new technologies.</li>
         <li>🏗️ Building projects with <b>Laravel, PHP, & JS</b>.</li>
-        <li>📫 Connect: <a href="https://gun.lol/syb6"><b>My Socials</b></a></li>
+        <li>📫 Connect: <a href="https://guns.lol/syb6"><b>My Socials</b></a></li>
       </ul>
     </td>
     <td width="50%" align="center" valign="top">
