@@ -10,7 +10,7 @@
   <a href="https://gun.lol/syb6" target="_blank">
     <img src="https://img.shields.io/badge/Connect_With_Me-101010?style=for-the-badge&logo=linktree&logoColor=00FF99" alt="Tuaha's Socials" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=syb6&label=Profile%20Views&color=00FF99&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=syb6&label=Profile%20Views&color=00FF99&style=for-the-badge&union=true" alt="Profile Views" />
 </div>
 
 <br/>
@@ -18,29 +18,31 @@
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🚀 About Me</h3>
+      <h3 align="center"><img src="https://img.shields.io/badge/About_Me-111111?style=flat-square&logo=rocket&logoColor=00FF99" alt="About Me" /></h3>
       <ul>
-        <li>💻 Specializing in <b>Full-Stack Web Development</b>.</li>
-        <li>🌱 Always learning and exploring new technologies.</li>
-        <li>🏗️ Building projects with <b>Laravel, PHP, & JS</b>.</li>
-        <li>📫 Connect: <a href="https://guns.lol/syb6"><b>My Socials</b></a></li>
+        <li><img src="https://img.shields.io/badge/-Development-111111?style=flat&logo=codeforces&logoColor=00FF99" alt="code" /> Specializing in <b>Full-Stack Web Development</b>.</li>
+        <li><img src="https://img.shields.io/badge/-Learning-111111?style=flat&logo=appveyor&logoColor=00FF99" alt="learn" /> Always learning and exploring new technologies.</li>
+        <li><img src="https://img.shields.io/badge/-Stack-111111?style=flat&logo=databricks&logoColor=00FF99" alt="build" /> Building projects with <b>Laravel, PHP, .NET, Angular & JS/TS</b>.</li>
+        <li><img src="https://img.shields.io/badge/-Contact-111111?style=flat&logo=minutemailer&logoColor=00FF99" alt="contact" /> Connect: <a href="https://guns.lol/syb6"><b>My Socials</b></a></li>
       </ul>
     </td>
     <td width="50%" align="center" valign="top">
-      <h3>🛠️ Tech Arsenal</h3>
+      <h3><img src="https://img.shields.io/badge/Tech_Arsenal-111111?style=flat-square&logo=tools&logoColor=00FF99" alt="Tech Arsenal" /></h3>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,php,laravel,mysql,git,github,vscode,postman&perline=6&theme=dark" alt="Tech Stack" />
+        <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,py&perline=6&theme=dark" alt="Tech Stack 1" /><br/>
+        <img src="https://skillicons.dev/icons?i=bootstrap,jquery,angular,dotnet,laravel,cs&perline=6&theme=dark" alt="Tech Stack 2" /><br/>
+        <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode&perline=4&theme=dark" alt="Tech Stack 3" />
       </a>
     </td>
   </tr>
 </table>
 
-<h3 align="center">📈 Activity & Analytics</h3>
+<h3 align="center"><img src="https://img.shields.io/badge/Activity_%26_Analytics-111111?style=flat-square&logo=googleanalytics&logoColor=00FF99" alt="Activity" /></h3>
 
 <table align="center" width="100%">
   <tr>
     <td align="center" colspan="2">
-      <b>🐍 Commit History</b><br/>
+      <b><img src="https://img.shields.io/badge/-History-111111?style=flat&logo=python&logoColor=00FF99" alt="history" /> Commit History</b><br/>
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/syb6/syb6/output/github-contribution-grid-snake-dark.svg">
         <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/syb6/syb6/output/github-contribution-grid-snake.svg">
@@ -67,6 +69,7 @@
 </table>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Programming Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&cache_seconds=0" alt="Programming Quote" />
+  <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=60&section=footer" alt="Footer" />
 </div>
