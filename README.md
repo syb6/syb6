@@ -7,7 +7,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF99&center=true&vCenter=true&width=500&lines=Building+with+PHP+%26+Laravel;Mastering+Modern+JavaScript;Lifelong+Learner;Crafting+Web+Experiences" alt="Typing SVG" />
   </a>
   <br/>
-  <a href="https://gun.lol/syb6" target="_blank">
+  <a href="https://gun.lol/2tde" target="_blank">
     <img src="https://img.shields.io/badge/Connect_With_Me-101010?style=for-the-badge&logo=linktree&logoColor=00FF99" alt="Tuaha's Socials" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=syb6&label=Profile%20Views&color=00FF99&style=for-the-badge&union=true" alt="Profile Views" />
