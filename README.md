@@ -23,7 +23,7 @@
         <li><img src="https://img.shields.io/badge/-Development-111111?style=flat&logo=codeforces&logoColor=00FF99" alt="code" /> Specializing in <b>Full-Stack Web Development</b>.</li>
         <li><img src="https://img.shields.io/badge/-Learning-111111?style=flat&logo=appveyor&logoColor=00FF99" alt="learn" /> Always learning and exploring new technologies.</li>
         <li><img src="https://img.shields.io/badge/-Stack-111111?style=flat&logo=databricks&logoColor=00FF99" alt="build" /> Building projects with <b>Laravel, PHP, .NET, Angular & JS/TS</b>.</li>
-        <li><img src="https://img.shields.io/badge/-Contact-111111?style=flat&logo=minutemailer&logoColor=00FF99" alt="contact" /> Connect: <a href="https://guns.lol/syb6"><b>My Socials</b></a></li>
+        <li><img src="https://img.shields.io/badge/-Contact-111111?style=flat&logo=minutemailer&logoColor=00FF99" alt="contact" /> Connect: <a href="https://guns.lol/2tde"><b>My Socials</b></a></li>
       </ul>
     </td>
     <td width="50%" align="center" valign="top">
